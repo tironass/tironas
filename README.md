@@ -1,5 +1,7 @@
 **Kurulum**
 
+pip install PyGithub
+
 git clone https://github.com/tironass/sms-bomber.git
 
 cd Enough-Reborn
