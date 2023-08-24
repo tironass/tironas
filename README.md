@@ -1,7 +1,11 @@
 **Kurulum**
+
 git clone https://github.com/tironass/sms-bomber.git
+
 cd Enough-Reborn
+
 pip3 install -r requirements.txt
+
 python3 enough.py
 
 **Discord Botuna Ayarlama**
