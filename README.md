@@ -11,7 +11,9 @@ pip3 install -r requirements.txt
 python3 tironas.py
 
 **Discord Botuna Ayarlama**
+
 Bot'un çalışabilmesi için 'Privileged Gateway Intents' seçeneklerinin hepsinin aktif olması gerekmektedir.
+
 **Token bulma:**
 
 1- Tarayıcıdan bot olarak kullanacağınız Discord hesabına giriniz.<br>
