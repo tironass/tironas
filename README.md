@@ -2,7 +2,7 @@
 
 pip install PyGithub
 
-git clone https://github.com/tironass/sms-bomber.git
+git clone https://github.com/tironass/tironas.git
 
 cd tironas
 
