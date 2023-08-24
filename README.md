@@ -4,11 +4,11 @@ pip install PyGithub
 
 git clone https://github.com/tironass/sms-bomber.git
 
-cd Enough-Reborn
+cd tironas
 
 pip3 install -r requirements.txt
 
-python3 enough.py
+python3 tironas.py
 
 **Discord Botuna Ayarlama**
 Bot'un çalışabilmesi için 'Privileged Gateway Intents' seçeneklerinin hepsinin aktif olması gerekmektedir.
