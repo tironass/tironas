@@ -1,4 +1,4 @@
-![banner]([http://url/to/img.png](https://github.com/tironass/tironas/blob/9e82e7df6b0f31dca0b0a78daf6a52058bc82730/banner.png))
+![banner](https://github.com/tironass/tironas/assets/143009717/e059a824-b48a-4987-9949-14f9ff2b88d0)
 
 **Kurulum**
 
