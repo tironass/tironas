@@ -1,4 +1,6 @@
-![banner](https://github.com/tironass/tironas/assets/143009717/e059a824-b48a-4987-9949-14f9ff2b88d0)
+# *Tironas* (2.1/4)
+
+![icon](https://github.com/tironass/tironas/assets/143009717/e059a824-b48a-4987-9949-14f9ff2b88d0)
 
 **Kurulum**
 
