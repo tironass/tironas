@@ -1,3 +1,5 @@
+![banner]([http://url/to/img.png](https://github.com/tironass/tironas/blob/9e82e7df6b0f31dca0b0a78daf6a52058bc82730/banner.png))
+
 **Kurulum**
 
 pip install PyGithub
