@@ -4,10 +4,6 @@
 
 **Kurulum**
 
-apt update&upgrade
-
-apt install python3-requests python3-colorama python3-psutil
-
 pip install PyGithub
 
 git clone https://github.com/tironass/tironas.git
