@@ -3,6 +3,7 @@
 ![icon](https://github.com/tironass/tironas/assets/143009717/e059a824-b48a-4987-9949-14f9ff2b88d0)
 
 **Kurulum**
+
 apt update&upgrade
 
 apt install python3-requests python3-colorama python3-psutil
